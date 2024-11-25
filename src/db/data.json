@@ -11,63 +11,95 @@
     {
       "id": "3",
       "day": 3
+    },
+    {
+      "id": "6dc4",
+      "day": 4
     }
   ],
   "words": [
     {
-      "id": 1,
+      "id": "1",
       "day": 1,
       "eng": "book",
       "kor": "책",
-      "isDone": false
+      "isDone": true
     },
     {
-      "id": 2,
+      "id": "2",
       "day": 1,
       "eng": "apple",
       "kor": "사과",
       "isDone": false
     },
     {
-      "id": 3,
+      "id": "3",
       "day": 2,
       "eng": "car",
       "kor": "자동차",
       "isDone": false
     },
     {
-      "id": 5,
-      "day": 3,
-      "eng": "school",
-      "kor": "학교",
-      "isDone": false
-    },
-    {
-      "id": 6,
-      "day": 3,
-      "eng": "pencil",
-      "kor": "연필",
-      "isDone": false
-    },
-    {
-      "id": 7,
+      "id": "7",
       "day": 3,
       "eng": "window",
       "kor": "창문",
       "isDone": false
     },
     {
-      "id": 8,
+      "id": "8",
       "day": 3,
       "eng": "house",
       "kor": "집",
       "isDone": false
     },
     {
-      "id": 9,
+      "id": "9",
       "day": 2,
       "eng": "mouse",
       "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": "d63c",
+      "day": "3",
+      "eng": "Hayoon",
+      "kor": "천재하윤",
+      "isDone": false
+    },
+    {
+      "id": "9125",
+      "day": "3",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false
+    },
+    {
+      "id": "d1a4",
+      "day": "3",
+      "eng": "hihi",
+      "kor": "인사",
+      "isDone": false
+    },
+    {
+      "id": "011e",
+      "day": "3",
+      "eng": "random",
+      "kor": "랜덤",
+      "isDone": false
+    },
+    {
+      "id": "6ec4",
+      "day": "3",
+      "eng": "random2",
+      "kor": "랜덤2",
+      "isDone": false
+    },
+    {
+      "id": "4044",
+      "day": "4",
+      "eng": "newbie",
+      "kor": "뉴비",
       "isDone": false
     }
   ]

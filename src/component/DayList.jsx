@@ -21,7 +21,7 @@ function DayList(props) {
 
 
 
-  const days = UseFetch(`http://localhost:3010/days?days`)
+  const days = UseFetch(`http://localhost:3010/days`)
   return (
     <ul className="list_day">
       {days.map(k => {
